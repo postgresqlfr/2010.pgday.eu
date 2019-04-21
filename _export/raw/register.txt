@@ -1,0 +1,56 @@
+~~NOTOC~~
+
+====== Registration ======
+
+The registration for PGDay Europe 2010 is now open!
+
+Please note that all attendees must register, including selected speakers. If you are not registered prior to the conference, you will not be allowed to attend. 
+
+===== Registration fee =====
+
+The registration fee depends on the type of registration. It must be paid in advance (excluding the pay-at-the-door type) using one of the approved methods. Please verify that your payment has been received within one week of paying it.
+
+The registration fee includes access to all sessions during one or two days, as well as catered lunch and coffee with snacks during the breaks. It will also include a conference bag with information and a t-shirt. We will do our best to accommodate the size preference as given on the registration form, but we can not guarantee the exact same size.
+
+^ Registration ^ Fee ^ Comments ^
+| Standard | €60 | Available to everybody |
+| Single day | €40 | Entrance either Monday or Tuesday |
+| Student | €20 | Available to registered students in Germany and internationally |
+| Speaker | Free | Available to //confirmed// speakers only. Includes lunch. |
+| Pay at the door | €100 | If you don't pay in advance, you can pay at the door. Please use this only if you must, we greatly prefer it if you can pay online or using your bank. //Exact change is a requirement//. You must still register at the website. Valid for two days. |
+
+===== Training =====
+
+On the day after the conference, we will also be providing training sessions. These are in-depth sessions, and cost an extra €150 per session. See the [[training]] page for more information.
+
+Training can only be booked along with your registration. A limited number of seats are available - so book soon to ensure you get one!
+
+===== Wireless =====
+
+If you are staying at the [[hotels|conference hotel]], wireless internet access during the conference is included. If you are staying somewhere else, you will need to purchase this separately. You can use the registration form to pre-order hotel wifi access, or you can use a local mobile data provider if you prefer.
+
+===== When to register =====
+
+We prefer if attendees register as soon as possible, as this makes the planning work much easier. Note that if you register too close to the conference, we cannot guarantee the availability of a conference bag and t-shirt for you!
+
+Note that normal registration must be completed //and paid// before or on **December 4th 2010, 17:00 CET**. After this date, only the at-the-door registration is allowed, at a higher cost. Please note that as of Nov 27th, //only// creditcard and paypal payments are accepted.
+
+===== Cancellation =====
+
+Should you need to cancel your registration before you have paid, just use the registration form and change your status to //Not attending//.
+
+If you need to cancel your registration //after// you have paid, please [[contact|contact]] us for manual handling, just modifying the form will //not// cancel your registration.
+
+If you cancel at least 4 weeks before the conference, we will refund you the full cost of the registration, minus any transaction fees.
+
+If you cancel at least 2 weeks before the conference, we will refund you 50% of the cost of the registration, minus any transaction fees.
+
+If you cancel less than 2 weeks before the conference, we will refund you 25% of the cost of the registration, minus any transaction fees.
+
+===== Registration form =====
+
+If you have any questions about your registration, don't hesitate to [[contact|contact us]].
+
+===== Registration form =====
+
+When you are ready to register, please use the [[https://www.postgresql.eu/events/register/pgday2010/|registration form]].

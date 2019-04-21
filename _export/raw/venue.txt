@@ -1,0 +1,53 @@
+====== Venue ======
+
+PGDay Europe 2010 will be held in the [[http://www.millenniumhotels.com/de/millenniumstuttgart/index.html|Millennium Hotel]] in Stuttgart, Germany, right in the center of Europe.
+
+We have also negotiated a group rate for staying at [[Hotels|the hotel]].
+
+{{:hotel_reception.png|}}
+
+==== Maps ====
+<html>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Plieninger+Stra%C3%9Fe+100,+Stuttgart,+Deutschland&amp;sll=37.0625,-95.677068&amp;sspn=46.092115,93.076172&amp;ie=UTF8&amp;hq=&amp;hnear=Plieninger+Stra%C3%9Fe+100,+Stuttgart+70567+Stuttgart,+Baden-W%C3%BCrttemberg,+Germany&amp;ll=48.980217,7.822266&amp;spn=20.220369,37.353516&amp;z=4&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Plieninger+Stra%C3%9Fe+100,+Stuttgart,+Deutschland&amp;sll=37.0625,-95.677068&amp;sspn=46.092115,93.076172&amp;ie=UTF8&amp;hq=&amp;hnear=Plieninger+Stra%C3%9Fe+100,+Stuttgart+70567+Stuttgart,+Baden-W%C3%BCrttemberg,+Germany&amp;ll=48.980217,7.822266&amp;spn=20.220369,37.353516&amp;z=4" style="color:#0000FF;text-align:left">View Larger Map</a></small></html>
+
+==== Transport =====
+The Millenium Hotel in Stuttgart is usually known as //SI-Erlebniszentrum// and //SI Erlebnis-Centrum//. SI is short for //Stuttgart International//; next to it there are the SI Suites - all is one big venue. When looking at transport, all of those destinations are valid.
+
+The venue is in the district //Möhringen//.
+
+=== Local transportation ===
+In Stuttgart there are two brands of local railways: "S-Bahn" and "U-Bahn". They are operated by the same company and you can switch freely between the two.
+
+Tickets for the trains are best bought at ticket vending machines. They take coins (1 and 2 EUR) and small bills. There is usually a long list of destinations with fitting numbers printed on the venue machine, you can look within that list for //Salzäcker//. You can also simply enter 002, which is a shortcut for "give me a ticket valid for 2 zones", which is the correct distance both airport<->venue and main station<->venue.
+
+You can find more travel information at http://www.vvs.de/en/.
+
+**Note!** When travelling to/from the airport, be sure **not** to use routes which involve changing trains at //Plieningen//, due to ongoing construction work.
+
+=== Arriving by air ===
+Stuttgart has an [[http://www.flughafen-stuttgart.de/|international airport]], airport code STR.
+
+From the airport to the venue you can use public transport. Easiest route is to take the //S-Bahn S3// direction //Backnang//, exit at station //Vaihingen// and change trains to the //Stadbahn U3// in direction //Plieningen//. Leave the train at station //Salzäcker// and you are standing right behind the venue. Travel time is around 40 minutes, cost is 2,45 EUR (2 zones, enter 002).
+
+You can also take a taxi to the venue. The distance is around 6km and should take around 10 minutes outside rush hours, and cost around 17-20 EUR.
+
+You can also fly into [[http://www.frankfurt-airport.com/content/frankfurt_airport/en.html|Frankfurt (Main)]] which is one of the biggest airline hubs in Europe. You can then take the train from Frankfurt to Stuttgart. If you do connect in Frankfurt, it is recommended that you take the train rather than a connecting flight - it will usually be faster.
+
+Finally, you ca nfly into [[http://www.hahn-airport.de|Frankfurt-Hahn]] that is serviced mainly by low-cost carriers like Ryanair and Wizz Air. Despite the name, that airport is quite distant from
+Frankfurt.  If you choose to arrive at this airport, your best choice is to take the bus [[http://www.hahn-airport.de/default.aspx?menu=by_bus&cc=en|as described]] to //Mannheim// main station, and to continue your journey via train to //Stuttgart// main station. Then continue as per below. Total travel time is approximately 3 hours.
+
+=== Arriving by train ===
+You can find general information about German train service at http://www.bahn.de, which should be able to give directions from many cities.
+
+To get from the central station to //SI Erlebniszentrum// you should take the //Stadtbahn U6// in direction //Möhringen//. After around 15 minutes you change trains at station //Möhringen Bahnhof// to the //Stadtbahn U3// in direction //Plieningen//. After 2 more minutes you exit the train at station //Salzäcker//, you are standing right behind the venue. Travel time is around 25 minutes, cost is 2,45 EUR (2 zones, enter 002).
+
+You can also take a taxi from railway main station to //SI Erlebniszentrum//. Travel time is around 20 minutes outside rush hours and cost is around 22 EUR.
+
+=== Arriving by car ===
+
+Exit the A8 at //Stuttgart-Degerloch//, travel the B27 in direction //Stuttgart-Zentrum//. Follow the signs to //SI// and //Stuttgart-International//. Parking near the venue is only available and legal within the hotels parking garage. Especially around the venue parking limitations are controlled quite strictly. To find a no-cost parking spot you have to be prepared to walk for at least 15 minutes.
+
+
+==== Streetview ====
+
+Here's what the venue looks like from [[http://maps.google.de/maps?f=q&source=s_q&hl=de&geocode=&q=SI-Erlebnis-Centrum+Stuttgart+Gesellschaft+mit+beschr%C3%A4nkter+Haftung,+Stuttgart&sll=48.77238,9.178786&sspn=0.00172,0.003278&g=Leonhardstra%C3%9Fe,+Stuttgart+70182+Stuttgart,+Baden-W%C3%BCrttemberg&ie=UTF8&hq=SI-Erlebnis-Centrum+Stuttgart+Gesellschaft+mit+beschr%C3%A4nkter+Haftung,&hnear=Stuttgart,+Baden-W%C3%BCrttemberg&layer=c&cbll=48.722768,9.162528&panoid=aR-nW41hhmviofLIBhRpTg&cbp=12,240.25,,0,-2.88&ll=48.718602,9.170322&spn=0.109744,0.20977&z=13|Google Streetview]].

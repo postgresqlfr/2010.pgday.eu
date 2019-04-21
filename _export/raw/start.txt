@@ -1,0 +1,67 @@
+~~META:title=Welcome~~
+
+====== PGDay Europe 2010 ======
+
+~~NOTOC~~
+
+[[about|PGDay Europe 2010]] is over! Thanks to all speakers, volunteers and attendees for making this a great event!
+
+{{:group_2009_1.jpg|}}
+
+===== Live updates =====
+<html>
+<style>
+div.twtr-hd h3 { clear:none !important; }
+div.twtr-hd h4 { clear:none !important; }
+img.twtr-profile-img { margin:0px; }
+</style>
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 12,
+  interval: 6000,
+  width: 'auto',
+  height: 600,
+  theme: {
+    shell: {
+      background: '#336699',
+      color: '#eeeeff'
+    },
+    tweets: {
+      background: '#eeeeff',
+      color: '#000000',
+      links: '#336699'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: true,
+    behavior: 'all'
+  }
+}).render().setUser('pgdayeu').start();
+</script>
+</html>
+
+===== News =====
+
+==== We're done! ====
+
+The conference is now over for this year. Slides from the different presentations will be made available [[http://wiki.postgresql.org/wiki/PGDay_Europe_2010_Talks|on the wiki]].
+
+==== Open for registration! ====
+
+We are now [[register|open for registration]]! Register early to ensure your seat at the limited sessions!
+
+==== Call for Papers is now closed ====
+
+The [[callforpapers|Call for Papers]] is now closed. The team are now selecting the talks and creating the [[schedule|schedule]] which will be published as soon as possible. Thank you for your submissions!
+
+==== Sponsorship Campaign started ====
+
+We are currently looking for sponsors for PGDay.EU 2010. See our [[Partnership Campaign]] for our offerings!

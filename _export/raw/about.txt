@@ -1,0 +1,19 @@
+====== About PGDay ======
+
+PGDay.EU - The European PostgreSQL Day - is by far the largest PostgreSQL conference in Europe. It is organized by PostgreSQL Europe, with participation from most of the PostgreSQL user groups around Europe.
+
+PGDay.EU is a unique chance for European PostgreSQL users and developers to catch up, learn, build relationships, get to know each other and consolidate a  real network of professionals that use and work with PostgreSQL.
+
+The conference will cover a wide range of topics, as we expect talks ranging from internals discussions led by core developers to end-user case-studies from small companies as well as large multinational corporations and government organizations, all who run their business on PostgreSQL.
+
+Given this wide range of talks, the conference is suitable for many different audiences:
+
+    * DBAs already using PostgreSQL, or considering doing so.
+    * Developers of any kind of applications, from hobbyists to large web- and enterprise applications.
+    * Decision makers interested in evaluating the worlds most advanced open source database as an alternative to traditional proprietary products.
+    * PostgreSQL contributors - code, documentation, support - whatever you help with!
+    * Open source enthusiasts in general!
+
+The conference will run multiple parallel tracks, covering the different technical levels to make sure there is always something interesting for everybody. We will also run a mix of English and German tracks to cater for both the local and the global audience - our goal is to always have at least one talk in each language running at any time.
+
+Next to the conference, we will also team up with several of the companies around Europe who offer PostgreSQL training, for a day of discounted short PostgreSQL training sessions.

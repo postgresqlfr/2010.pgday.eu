@@ -1,0 +1,15 @@
+====== Training ======
+
+~~NOTOC~~
+
+The schedule for PGDay.EU 2010 includes a day of training courses on PostgreSQL and related topics. Each session is offered at a cost of 150€ and includes:
+
+  * Approximately 3.5 hours of training
+  * Lunch
+  * A hotel venue
+
+Each training course is provided by a third-party company which is wholly responsible for the course content. The proceeds of the training are shared between the company providing each course and PostgreSQL Europe.
+
+If you wish to take a training course, you must register in advance when you [[register|register for the conference]]. Places are limited, so book early to avoid disappointment!
+
+The course schedule is available [[http://www.postgresql.eu/events/schedule/pgday2010/|here]].

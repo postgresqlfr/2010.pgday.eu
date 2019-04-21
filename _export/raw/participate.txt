@@ -1,0 +1,38 @@
+====== Participate ======
+
+~~NOTOC~~
+
+PGDay.EU is an event organized by PostgreSQL Europe, and you can get involved in many ways. Don't hesitate to [[contact|contact us]] if you want to help us!
+
+
+===== Volunteers =====
+
+If you would like to help out, either before or during the conference, there are several things you can do.
+
+  * Publicize the event. Tell your local computer group about the event.
+
+  * Put our [[banners]] on your website!
+
+  * Mention PGDay on your website. Create a link!
+
+  * We need people to run various parts of the conferences. Very low workload, very high satisfaction. 
+
+**Please [[contact]] us if you're interested!** \\
+
+
+
+===== Sponsors =====
+
+The advertising partnership campaign for PGDay 2010 has just started. There are several opportunities for you to join the advertising [[partnership campaign]]. It is also possible to directly sponsor a speaker for the conference.
+
+===== Speakers =====
+
+We are currently looking for speakers - please see our [[callforpapers|Call for Papers]].
+
+===== Donate =====
+
+Donations for the organisation of PGDay 2010 are officially collected by [[http://www.postgresql.eu/donate|PostgreSQL Europe]], a non profit organization that promotes PostgreSQL and the free software culture throughout Europe.
+
+Your donations are vital, as they allow us to invite the best speakers in the world to PGDay 2010 in Stuttgart and to keep the event fees as low as possible.
+
+Any profits from the conference will be reinvested to others activities of PostgreSQL Europe, such as helping local users groups.

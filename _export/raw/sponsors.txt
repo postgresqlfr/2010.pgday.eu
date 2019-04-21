@@ -1,0 +1,34 @@
+~~NOTOC~~
+
+====== Sponsors ======
+
+
+The advertising partnership campaign for PGDay 2010 has just started. There are several opportunities for you to join the advertising [[partnership campaign]]. It is also possible to directly sponsor a speaker for the conference.
+===== Platinum =====
+
+[[http://www.enterprisedb.com/|{{:edb_logo_300x70.png|EnterpriseDB}}]]
+
+===== Gold =====
+
+[[http://www.dalibo.com/|{{:dalibo.234x60.png|Dalibo}}]]
+
+[[http://www.2ndquadrant.com/|{{:2ndquadrant-234x60.png|}}]]
+
+[[http://www.servoy.com/|{{:servoy-226x50.png|}}]]
+
+===== Silver =====
+
+[[http://www.credativ.de|{{:credativ-70x60.png|Credativ}}]]
+
+===== Bronze =====
+
+[[http://www.redpill-linpro.com/|{{:rplp_loggo_2.png|}}]] [[http://bitnami.org/|{{:bitrock120x60.png|}}]]
+[[http://www.contegix.com/|{{:contegix_logo120x64.png|}}]]
+[[http://www.roclasi.com/|{{:roclasi.120x60.png|}}]]
+[[http://www.cybertec.at/|{{:cybertec-120x62.png|}}]]
+[[http://andreas.scherbaum.biz/|{{:ads_logo_200x20.png|}}]]
+[[http://www.c-s.fr/|{{:cs_logo_120x53.png|}}]]
+
+===== Press Partners =====
+
+[[http://www.databasepro.de/Abos|{{:databasepro-logo.jpg|Database Pro}}]]

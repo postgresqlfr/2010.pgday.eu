@@ -1,0 +1,25 @@
+====== Banners ======
+
+
+Help PGDay Europe by placing our banners on your website !
+
+**Tiny**
+
+{{:pgdayeu10.small_banner.en.png|}}
+
+  * Full size : 120x60
+  * URL: http://2010.pgday.eu/_media/pgdayeu10.small_banner.en.png
+
+**Medium**
+
+{{:pgdayeu10.medium_banner.en.png|}}
+
+  * Full size : 180x180
+  * URL: http://2010.pgday.eu/_media/pgdayeu10.medium_banner.en.png
+
+**Large**
+
+{{:pgdayeu10.large_banner.en.png?500|}}
+
+  * Full size : 700x120
+  * URL: http://2010.pgday.eu/_media/pgdayeu10.large_banner.en.png

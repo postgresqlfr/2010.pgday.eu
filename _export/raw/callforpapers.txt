@@ -1,0 +1,50 @@
+====== Call for Papers ======
+
+**The Call for Papers is now closed**
+
+PGDay.EU 2010 will be held on December 6-8 in the Millennium Hotel in Stuttgart, Germany. It will cover topics for users, developers and contributors to PostgreSQL, as well as decision and policy makers. For more information about the conference, please see the website at http://2010.pgday.eu/.
+
+We are now accepting proposals for talks. Please note that we are looking for talks in both English and German.
+
+Each session will last 50 minutes, and may be on any topic related to PostgreSQL. Suggested topic areas include:
+
+  * Developing applications for PostgreSQL
+  * Administering large scale PostgreSQL installations
+  * Case studies of PostgreSQL deployments
+  * PostgreSQL tools and utilities
+  * PostgreSQL hacking
+  * Community & user groups
+  * Tuning the server
+  * Migrating from other systems
+  * Scaling/replication
+  * Benchmarking & hardware
+  * PostgreSQL related products
+  * Deployment of PostgreSQL from a business perspective
+
+Of course, we're happy to receive proposals for talks on other
+PostgreSQL related topics as well.
+
+We also have a limited number of longer, double-length slots available. Please indicate clearly in your submission if you wish to make a longer talk.
+
+The submission deadline is October 11th, 2010. Selected speakers will be
+notified on October 25th, 2010. Please email your proposals to
+**papers@pgday.eu**, including the following information:
+
+  * Name
+  * Company (if applicable)
+  * Biography (a paragraph about you and your involvement with PostgreSQL)
+  * Presentation title
+  * Presentation abstract
+
+If your proposal is in German, please include a single-sentence description of the presentation in English as well, for overview purposes.
+
+
+The proposals will be considered by committee who will produce a
+schedule to be published nearer the conference date. If your proposal
+has been accepted, you will be informed by email within two weeks of
+the submission deadline.
+
+This call for papers is also available on the web at
+http://2010.pgday.eu/callforpapers
+
+We look forward to hearing from you, and seeing you in Stuttgart in December!
